@@ -20,23 +20,3 @@ Visual Rendering in VR and other immersive technologies will be implimeted at la
 alpha v.01 in development and will be committed in April 17.
 
 ##############
-
-ETACUDE DNA EKAM OT
-.seinapmoc dna stcudorp ngierof yb ylno detanimod ton era seciohc ruo os ylevitcelloc eraperp dna erahs eW .erutuf eht fo stcudorp ecudorp ot gniod fo eutriv dna egdelwonk fo rewop ruo htiW
-
-NOITUBIRTNOC LUFGNINAEM ROF
-.ytinamuH fo ecivres eht ni si troffe sihT .yrtnuoc dna sevil ruo ot eulav retaerg dda lliw taht noitulos lufgninaem a edivorp ot nevirD
-
-GNIKNIHT WEN ERIPSNI OT
-.niard niarb evissam no tlah a tup dna laitnetop lluf esilautca ot meht pleH .noitca ni smaerd hsup dna noissap rieht eusrup yeht os ecnedifnoc dna ytivitaerc esnemmi rieht etavitluC .retteb maerd sdik eripsni eW .gnitekraM tuoba si gnihtyreve erehw dlrow a nI
-
-.ynomrah tcefrep ni krow ot rehtegot egrevnoc gnihtyreve erehw mroftalp detcennoc ylurt a si tI
-.mroftalp eht no enoyna gnipleh emit eht fo %001 evitca si enolc latigid ruoY .gnihtyna rof uoy yb deniart eb nac neht hcihw flesruoy fo enolc latigid a etaerc lliw buhsrekaM .resu sti morf gninrael yb skrow tI
-
-
-###################
-
-CONVERGE LAB
-THIS IS WHERE WE MAKE PRODUCTS OF THE FUTURE.
-Converge is a research lab where we specialize in Product Design, Engineering, Rapid Prototyping, Software and AI research focussed on building a small efficient team who can work from basic plan to final production.
-
