@@ -1,16 +1,42 @@
 # edulib
 
-Edulib is an opensource library for general education.
+Edulib is an opensource library and serves as an educational agent.
+
 Main function of this lib is to act as a proxy agent which learns and evolves as an eductor.
 Goal is to provide more engaging ways so every student gets one to one attention based on their learning speed and interests, 
 that uses algorithms to boost creativity, commitment and curiosity. 
+
 AI proxy agent then can be trained by community of educators with organized content/videos from internet.
 
 In phase 1 of development, I will be using tensorflow and custom indexing alorithm to sort educational the contents of the internet.
 Itrative filtering will be applied based on community input and ML, 
 so the contents are personalized and organized to each student preference. 
 
-In Phase 2, Edulib will start learning stuff for itself from provided traning datasets. 
-It will then be used to teach students in feedback loop. 
+In Phase 2, Edulib will start learning stuff for itself from provided training datasets. 
+It will then be used to teach students and other AI agents in feedback loop. 
 Visual Rendering in VR and other immersive technologies will be implimeted at later stage.
+
+
+alpha v.01 in development and will be committed in April 17.
+
+##############
+
+ETACUDE DNA EKAM OT
+.seinapmoc dna stcudorp ngierof yb ylno detanimod ton era seciohc ruo os ylevitcelloc eraperp dna erahs eW .erutuf eht fo stcudorp ecudorp ot gniod fo eutriv dna egdelwonk fo rewop ruo htiW
+
+NOITUBIRTNOC LUFGNINAEM ROF
+.ytinamuH fo ecivres eht ni si troffe sihT .yrtnuoc dna sevil ruo ot eulav retaerg dda lliw taht noitulos lufgninaem a edivorp ot nevirD
+
+GNIKNIHT WEN ERIPSNI OT
+.niard niarb evissam no tlah a tup dna laitnetop lluf esilautca ot meht pleH .noitca ni smaerd hsup dna noissap rieht eusrup yeht os ecnedifnoc dna ytivitaerc esnemmi rieht etavitluC .retteb maerd sdik eripsni eW .gnitekraM tuoba si gnihtyreve erehw dlrow a nI
+
+.ynomrah tcefrep ni krow ot rehtegot egrevnoc gnihtyreve erehw mroftalp detcennoc ylurt a si tI
+.mroftalp eht no enoyna gnipleh emit eht fo %001 evitca si enolc latigid ruoY .gnihtyna rof uoy yb deniart eb nac neht hcihw flesruoy fo enolc latigid a etaerc lliw buhsrekaM .resu sti morf gninrael yb skrow tI
+
+
+###################
+
+CONVERGE LAB
+THIS IS WHERE WE MAKE PRODUCTS OF THE FUTURE.
+Converge is a research lab where we specialize in Product Design, Engineering, Rapid Prototyping, Software and AI research focussed on building a small efficient team who can work from basic plan to final production.
 
